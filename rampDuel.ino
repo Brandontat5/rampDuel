@@ -1,12 +1,10 @@
 // variables
 
 bool leftSide = true;
-
 const byte LEFT_SENSOR_PIN = A0;
 const byte RIGHT_SENSOR_PIN = A1;
 const byte LEFT_PISTON_PIN = 10;
 const byte RIGHT_PISTON_PIN = 9;
-
 int score = 0;
 
 // set up
